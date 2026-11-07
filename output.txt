@@ -1,0 +1,16 @@
+=============================================
+  PC16 Week 8: Logic & Error Handling Test   
+=============================================
+
+--- Test 1: Normal Valid Input ---
+Item: DDR4-RAM-16GB | Status: Adequate Stock (High Volume Tier) | Evaluated Metric Score: PHP 53911.00
+
+--- Test 2: Low Stock Threshold Input ---
+Item: SSD-512GB | Status: Low Stock (Restock Recommended) | Evaluated Metric Score: PHP 23466.67
+
+--- Test 3: Deliberate Bad Input (Error Handling) ---
+Error Caught: Invalid numeric format for stock quantity ('twelve_units'). Handled gracefully.
+
+=============================================
+          Batch Processing Complete          
+=============================================
